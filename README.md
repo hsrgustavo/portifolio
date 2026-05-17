@@ -14,7 +14,6 @@ Bem-vindo ao meu repositório de projetos acadêmicos e pessoais.
 ### Projetos Acadêmicos
 - Modelagem ER
 - Redes de Computadores
-- Lógica Booleana
 
 ### Projetos Pessoais
 - Raspador de Portais da Transparência
